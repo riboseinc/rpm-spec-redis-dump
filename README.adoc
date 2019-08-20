@@ -1,11 +1,9 @@
 = Ribose RPM Spec for redis-dump
 
-image:https://img.shields.io/travis/riboseinc/rpm-spec-redis-dump/master.svg[Build Status (Travis CI), link=https://travis-ci.org/riboseinc/rpm-spec-redis-dump]
+image:https://gitlab.com/ribose/rpm-spec/rpm-spec-redis-dump/badges/master/pipeline.svg[Build Status (GitLab CI), link=https://gitlab.com/ribose/rpm-spec/rpm-spec-redis-dump/commits/master]
 
 == Introduction
 
 This repository hosts the RPM spec & related Docker files for building the RPM
 package.
 
-It uses code from https://github.com/riboseinc/rpm-specs[`rpm-specs`]
-(added as a Git submodule).
